@@ -60,7 +60,7 @@ public class Main {
 		frame.add(textarea);
 
 		textfield.setText("Quiz Game - Coleta Seletiva");
-		textarea.setText("    Aron Alvarenga - Dev Web Full Stack");
+		textarea.setText("     Aron Alvarenga - Java Developer");
 
 		frame.add(game);
 		frame.add(sair);
